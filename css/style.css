@@ -1,0 +1,111 @@
+/* Navigation styles */
+.logo {
+    background: rgb(68, 85, 210);
+    height: 230px;
+    background: url("../images/Logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    scale: 120%;
+}
+
+.nav {
+    display: flex;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    width: 100%;
+}
+
+.center a {
+    color: grey;
+    padding: 100px;
+    font-size: 18px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.center a:hover{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+/* Column styles */
+
+.column {
+    display: flex;
+    height: 1200px;
+    width: 800px;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+
+/* Footer Styles */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background: white;
+    height: 100px;
+}
+
+.footer a {
+    padding: 20px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.ig {
+    color: red;
+}
+
+.fb {
+    color: skyblue;
+}
+
+.tw {
+    color: yellow;
+}
+
+h1{
+    color: black;
+    font-size:60px;
+    text-align: center;
+}
+
+.crystal {
+    scale: 80%
+}
+.book1{
+    scale: 75%;
+}
+
+.book3 {
+    scale: 70%;
+}
+
+.book4 {
+    scale: 70%;
+}
+
+.book5 {
+    scale: 70%;
+}
+
+.book2 {
+    scale: 70%;
+}
